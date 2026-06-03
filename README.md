@@ -24,3 +24,13 @@ Som ansatt kan du føre opp utlegg i appen. Dette gjøres ved å navigere til `R
 Fyll deretter ut skjemaet på siden. Når utlegget er registrert, kan du følge med på statusen ved å gå til `Mine utlegg`. Der får du en oversikt over alle utleggene dine og gjeldende status: **behandles**, **godkjent** eller **avvist**.
 
 Når et utlegg er ferdig behandlet, mottar du et varsel på e-post. Du kan deretter logge inn i appen for å se det endelige utfallet.
+
+---
+
+## Behandling av utlegg
+
+Som admin/saksbehandler kan du behandle utlegg ved å navigere til `Behandle utlegg` i navigasjonsmenyen. Denne siden er tilgangsstyrt og krever at du har admin-rollen.
+
+Der får du en oversikt over alle innsendte utlegg. For hvert utlegg kan du enten godkjenne eller avvise det — den ansatte vil uansett bli varslet på e-post om beslutningen.
+
+Det er alt — enkelt og greit!
