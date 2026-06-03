@@ -38,6 +38,8 @@ Formålet med løsningen er å forenkle prosessen rundt oppføring av utlegg i d
 
 ## Power Apps
 
+![alt text](<Skjermbilde 2026-06-03 kl. 13.36.55.png>)
+
 Som nevnt i formålet er utleggsappen en løsning som skal forenkle hverdagen til de ansatte i digitaliseringsetaten.
 
 Løsningen består av 2 deler: en Power App og en Power Automate-flyt. Selve registreringen av utlegget skjer i appen. Når en bruker fører opp et utlegg, gjøres det en POST-request mot databasen som sender over dataen fra skjemaet.
@@ -53,6 +55,8 @@ Det finnes også en admin-side kalt **Behandle utlegg**. Denne siden er tilgangs
 ---
 
 ## Power Automate
+
+![alt text](<Skjermbilde 2026-06-03 kl. 13.37.11.png>)
 
 Power Automate-flyten er utviklet for å varsle en ansatt om at utlegget deres er ferdig behandlet. Flyten lytter etter endringer i statuskolonnen til et utlegg og sender en e-post til tilhørende e-postadresse.
 
