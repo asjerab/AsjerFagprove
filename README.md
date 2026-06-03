@@ -2,15 +2,11 @@
 
 Brukermanual for Digitaliseringsetatens utleggs-app — 03.06.2026
 
----
-
 ## Innholdsfortegnelse
 
 - [Roller](#roller)
 - [Føre opp utlegg](#føre-opp-utlegg)
 - [Behandling av utlegg](#behandling-av-utlegg)
-
----
 
 ## Roller
 
@@ -23,8 +19,6 @@ I løsningen finnes det to roller man kan ha.
 
 Standardrollen er Ansatt.
 
----
-
 ## Føre opp utlegg
 
 Som ansatt kan du føre opp utlegg i appen. Dette gjøres ved å navigere til `Registrer utlegg` i navigasjonsmenyen, eller ved å trykke på handlingsknappen (CTA) på forsiden.
@@ -32,8 +26,6 @@ Som ansatt kan du føre opp utlegg i appen. Dette gjøres ved å navigere til `R
 Fyll deretter ut skjemaet på siden. Når utlegget er registrert, kan du følge med på statusen ved å gå til `Mine utlegg`. Der får du en oversikt over alle utleggene dine og gjeldende status: **behandles**, **godkjent** eller **avvist**.
 
 Når et utlegg er ferdig behandlet, mottar du et varsel på e-post. Du kan deretter logge inn i appen for å se det endelige utfallet.
-
----
 
 ## Behandling av utlegg
 
