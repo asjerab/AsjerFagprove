@@ -4,6 +4,14 @@ Brukermanual for Digitaliseringsetatens utleggs-app — 03.06.2026
 
 ---
 
+## Innholdsfortegnelse
+
+- [Roller](#roller)
+- [Føre opp utlegg](#føre-opp-utlegg)
+- [Behandling av utlegg](#behandling-av-utlegg)
+
+---
+
 ## Roller
 
 I løsningen finnes det to roller man kan ha.
