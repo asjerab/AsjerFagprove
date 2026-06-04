@@ -16,8 +16,8 @@ Formålet med løsningen er å forenkle prosessen rundt oppføring av utlegg i d
 
 | Miljø | Komponent | Navn |
 |---|---|---|
-| DIG pdev – Asjer Bereket | POWER APP | Utleggsapp |
-| DIG pdev – Asjer Bereket | POWER AUTOMATE | Planner flyt |
+| DIG Lærlinger Dev | POWER APP | Utleggsapp |
+| DIG Lærlinger Dev | POWER AUTOMATE | Planner flyt |
 
 ---
 
