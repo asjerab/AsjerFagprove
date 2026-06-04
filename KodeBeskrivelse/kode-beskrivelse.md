@@ -90,7 +90,7 @@ Set(showSuccessModal, true);
 ```
 
 | Funksjon | Beskrivelse |
-|---|---|
+| --- | --- |
 | `SubmitForm()` | Tar inn input-verdier fra Power Apps form-komponenten og skriver til databasen. Databasekoblingen defineres i selve formen, hvor man velger hvilken datakilde formen skal skrive til. |
 | `ResetForm()` | Resetter alle inputfelt i formen. |
 | `Set()` | Viser bekreftelsesmodal når formen er sendt inn. |
@@ -108,9 +108,9 @@ Sort(
 ```
 
 | Del | Beskrivelse |
-|---|---|
+| --- | --- |
 | `Filter()` | Filtrerer databasen `FagprøveUtlegg` og returnerer kun rader der `Epostadresse`-kolonnen matcher den innloggede brukerens e-post (`varUserMail`). |
-| `Sort()` | Sorterer de filtrerte resultatene på `Created`-feltet i synkende rekkefølge — nyeste utlegg vises øverst.
+| `Sort()` | Sorterer de filtrerte resultatene på `Created`-feltet i synkende rekkefølge — nyeste utlegg vises øverst. |
 
 ## Behandle utlegg
 
@@ -123,10 +123,10 @@ CountIf(colAdminList, Value = Lower(varUserMail)) > 0
 ```
 
 | Del | Beskrivelse |
-|---|---|
+| --- | --- |
 | `colAdminList` | En collection i kodebasen som inneholder e-postadressene til alle admins. |
 | `Lower(varUserMail)` | Konverterer den innloggede brukerens e-post til lowercase for å sikre case-insensitiv sammenligning. |
-| `CountIf(...) > 0` | Returnerer `true` hvis brukeren finnes i adminlisten — ellers får de opp en «Du har ikke tilgang»-side.
+| `CountIf(...) > 0` | Returnerer `true` hvis brukeren finnes i adminlisten — ellers får de opp en «Du har ikke tilgang»-side. |
 
 ---
 
